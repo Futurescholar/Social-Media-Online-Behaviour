@@ -55,10 +55,10 @@ Power BI (for Data Cleaning, DAX Calculations, and Visualization)
 
 ---
 ## Dashboard 
-![Home](Screenshot%20(76).png)
+![Home](Screenshot%20(78).png)
 
 ---
-![Online Behaviour](Screenshot%20(77).png)
+![Online Behaviour](Screenshot%20(79).png)
 ## Key Observations
 - Content Trends by Age: Gen Z and Millennials dominate TikTok and Instagram usage, while Gen X prefers Facebook.
 - Income vs Subscription: Weak correlation — subscription counts do not vary significantly with income.
