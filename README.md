@@ -95,11 +95,11 @@ Power BI (for Data Cleaning, DAX Calculations, and Visualization)
    - Maintain equal compatibility across PC, smartphones, and tablets for inclusive content delivery.
 
 ---
-Data Source
+## Data Source
 DataCrunch ( Challenge Datasets )
 
 ---
-Technical Details
+## Technical Details
 Tool: Power BI
 Visuals Used: KPI Cards, Stacked Bars, Line Graphs, Pie Charts, Scatter Plots
 Techniques Displayed: Power Query Cleaning, DAX Measures, Custom Filters
